@@ -1,4 +1,4 @@
-module html2md
+module github.com/nealhardesty/html2md
 
 go 1.23.0
 
